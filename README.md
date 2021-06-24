@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hermione9211. I'm a PhD student from China Agricultural University
-- 👀 My focuses on international trade
+- 👀 My research focuses on international trade
 - 🌱 I’m currently learning Stata and Python
 - 📫 You can reach me via email: hermione.h.xie@gmail.com
 
